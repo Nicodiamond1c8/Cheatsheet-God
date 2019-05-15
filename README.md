@@ -1,19 +1,20 @@
 # 📂 Cheatsheet-God 📂
 
+
 *Do you have a million bookmarks saved? Do all of those bookmarks contain unique information? Github repos starred for later?*
 
 
 Well this is a compilation of all of these resources into a single repo known as **Cheatsheet-God**. No more need for bookmarked links. No need to open a web browser. Its all here for you.
 
-This is a collection of resources, scripts and easy to follow how-to's. I have been gathering (and continuing to gather) in preparation for the OSCP as well as for general pentesting. Feel free to use however you want to help you in your studies/reference material.
+This is a collection of resources, scripts and easy to follow how-to's. I have been gathering (and continuing to gather) in preparation for the OSCP as well as for general pentesting. Feel free to use however you want! 
 
 &nbsp;
 
-All contributions are wellcomed! If you feel like you can contribute your knowledge and help make these dcuments more complete, please merge it over! I'll acknowledge you.
+All contributions are welcomed! If you feel like you can contribute and make these documents more complete, please do! I'll acknowledge you.
 
 &nbsp;
 
-### If you would like to improuve anything, and add to this repo, PLEASE DO!
+### If you would like to improve anything, and add to this repo, PLEASE DO!
 
 Here's what you do:
 
@@ -27,7 +28,7 @@ Here's what you do:
 Feel free to also open an issue with any questions, help wanted, or requests!
 
 ## Acknowledgments
-
+* Inspiration: Making a cheatsheet god would be proud of using.
 * Hat tip to anyone who ever contributed :shipit:
 
 
@@ -39,4 +40,5 @@ Feel free to also open an issue with any questions, help wanted, or requests!
 -> Much thanks to [susmithaaa](https://github.com/susmithaaa) for his contribution to Cheatsheet_PenTesting.txt password attacks section 
 &nbsp;
 
-* Inspiration: Making a cheatsheet god would be proud of using. 
+
+
